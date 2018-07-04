@@ -1,0 +1,15 @@
+.listing {
+    width: 100px;
+    height: 100px;
+}
+
+.listing-pictures {
+    height: 100px;
+    width: 300px;
+    display: flex;
+}
+
+.listing-picture {
+    width: 100px;
+    height: 100px;
+}
